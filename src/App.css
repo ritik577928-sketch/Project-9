@@ -97,3 +97,9 @@ label {
   font-weight: bold;
   margin-left: 5px;
 }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  justify-content: center;
+}
